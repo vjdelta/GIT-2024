@@ -21,4 +21,4 @@ fib_sequence = fibonacci_sequence(num_terms)
 # Print the Fibonacci sequence
 print(f"The first {num_terms} terms of the Fibonacci sequence are:")
 print(fib_sequence)
-
+agwhdwsacvhbcjbDBJCDBhjDBChvbchvbchjVCEHBchbv
