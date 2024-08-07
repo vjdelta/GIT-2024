@@ -22,3 +22,6 @@ fib_sequence = fibonacci_sequence(num_terms)
 print(f"The first {num_terms} terms of the Fibonacci sequence are:")
 print(fib_sequence)
 agwhdwsacvhbcjbDBJCDBhjDBChvbchvbchjVCEHBchbv
+
+xjBcjbdjcB
+cnjcjB
